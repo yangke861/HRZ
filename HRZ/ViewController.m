@@ -19,6 +19,7 @@
     NSLog(@"第二");
     NSArray *Arr = [NSArray new];
     NSLog(@"第三个哈哈");
+    NSLog(@"四四四");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
