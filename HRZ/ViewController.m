@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"第二");
+    NSArray *Arr = [NSArray new];
     // Do any additional setup after loading the view, typically from a nib.
 }
 
